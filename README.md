@@ -4,3 +4,6 @@ CryRP was meant to be my replacement for DarkRP, I got lazy and never finished t
 This was my first attempt ever at using SQL so don't expect anything too great there.
 
 This gamemode is extremely unfinished and exists purely for documentation & archive purposes, you are free to continue private development on this gamemode.
+
+## Credits
+Models - Old Bill: https://steamcommunity.com/profiles/76561198035436184/
