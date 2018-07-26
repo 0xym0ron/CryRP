@@ -1,0 +1,15 @@
+"cryrp"
+{
+	"base"		"sandbox"
+    "title"  "CryRP"
+    "version"   "0.0.0.1"
+    "menusystem"	"1"
+
+    "author_name"   "0xymoron"
+    "author_email"  "http://steamcommunity.com/profiles/76561198040553376"
+    "author_url"    "http://sidewaysgaming.net/portfolio/"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
